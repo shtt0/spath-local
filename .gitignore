@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+target/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+
+# Solana
+test-ledger/
+.anchor/
+.DS_Store
+
+# Keypairs
+*-keypair.json 
